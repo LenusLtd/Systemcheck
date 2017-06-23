@@ -1,6 +1,6 @@
 # Systemcheck
-##Created By Jordon Holmes
-###24/06/2017
+## Created By Jordon Holmes
+### 24/06/2017
 
 ---------------------------------
 # Web Scripting 
@@ -17,7 +17,7 @@ ________________________________
 _______________________________
 # All Pages are working- Before But on github. 
 
-[Take me to the Website!](https://github.com/LenusLtd/Systemcheck)
+[Take me to the Website!](https://lenusltd.github.io/Systemcheck/)
 
 
 
